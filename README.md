@@ -1,5 +1,8 @@
 # PM Kisan Yojna constituency level data
 
+## Background
+This repository is a part of the [Open Budgets India](https://openbudgetsindia.org) Phase 2 where we are trying to estimate scheme expenditure data at the Assembly Constituency (AC) and Parliamentary Constituency (PC) levels. It is a collaborative initiative between [Centre for Budget and Governance Accountability (CBGA)](https://www.cbgaindia.org) and [CivicDataLab](https://civicdatalab.in). Currently this data exists only at the administrative boundary level which varies between district, block, gram panchayat or village depending on the scheme.
+
 ### Description
 This repository explains the process of estimating pay data at the village level scrapped from the government MIS portal to pay estimates at the assembly constituency (AC) and parliamentary constituency (PC) level. It contains state-wise folder for the scheme.
 
